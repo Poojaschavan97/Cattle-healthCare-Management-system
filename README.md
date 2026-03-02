@@ -1,46 +1,35 @@
 🐄 Cattle Healthcare Management System
-
 📌 Project Overview
 
-The Cattle Healthcare Management System is a Business Analysis project designed to streamline cattle health tracking, medical records management, and operational monitoring for livestock owners and veterinary stakeholders.
+The Cattle Healthcare Management System is an end-to-end Business Analysis project designed to digitize cattle health management, streamline medical tracking, and enable data-driven monitoring for livestock operations.
 
-This project includes:
+This project covers:
 
-Business Analysis documentation
+Business Requirement Analysis
 
-Functional & Non-Functional Requirements
+Functional & Non-Functional Specifications
 
-UML Diagrams
+UML & Process Modeling
 
-Stakeholder Analysis
+High-Fidelity Figma Prototype
 
-Figma Prototype
-
-Power BI Dashboard
+Power BI Analytics Dashboard
 
 🎯 Problem Statement
 
-Livestock owners often rely on manual record-keeping for:
+Traditional livestock health tracking relies heavily on manual record-keeping, leading to:
 
-Vaccination schedules
+Missed vaccination schedules
 
-Disease history
-
-Treatment records
-
-Milk production tracking
-
-This leads to:
-
-Missed vaccinations
+Incomplete treatment records
 
 Poor health monitoring
 
 Lack of centralized medical data
 
-Inefficient reporting
+Limited analytical insights
 
-The system aims to provide a structured digital solution for cattle healthcare tracking and decision support.
+This system proposes a structured digital solution for efficient healthcare tracking and reporting.
 
 👥 Stakeholders
 
@@ -52,20 +41,69 @@ Farm Workers
 
 System Administrator
 
-Stakeholder mapping and requirement elicitation were conducted using structured Business Analysis techniques.
+Stakeholder analysis and mapping were performed to identify system needs and role-based access.
 
-📊 Business Analysis Approach
-✔ Requirement Elicitation Methods
+📊 System Design & Visual Artifacts
+🧩 Use Case Diagram
 
-Interviews
+Represents actors and their interaction with system functionalities including cattle registration, health updates, vaccination tracking, and reporting.
 
-Stakeholder Discussions
+<p align="center"> <img src="assets/use case.png" width="750"> </p>
+🔄 Swimlane Diagram
 
-Document Analysis
+Illustrates process flow and responsibility distribution across stakeholders in cattle healthcare management.
 
-Brainstorming
+<p align="center"> <img src="assets/swimlane.png" width="750"> </p>
+🖥 Figma Prototype – Dashboard Interface
 
-✔ Documentation Created
+High-fidelity prototype designed to visualize cattle health metrics and operational summaries.
+
+Features:
+
+Health Status Overview
+
+Vaccination Alerts
+
+Cattle Summary Cards
+
+Role-Based Navigation
+
+<p align="center"> <img src="assets/dashboard prototype.png" width="750"> </p>
+📝 Figma Prototype – Cattle Health Form
+
+Interface designed for adding and updating cattle medical records.
+
+Features:
+
+Cattle Registration
+
+Disease & Treatment Entry
+
+Vaccination Scheduling
+
+Medical History Logging
+
+<p align="center"> <img src="assets/form prototype.png" width="750"> </p>
+📈 Power BI Analytics Dashboard
+
+An interactive analytics dashboard built to monitor and analyze cattle health data.
+
+Dashboard Highlights:
+
+Vaccination Compliance Tracking
+
+Disease Distribution Analysis
+
+Treatment History Trends
+
+Health Status Categorization
+
+Farm-Level Performance Metrics
+
+<p align="center"> <img src="assets/powerbi-dashboard.png" width="750"> </p>
+📂 Business Analysis Documentation
+
+The project includes structured documentation:
 
 Business Requirement Document (BRD)
 
@@ -73,88 +111,32 @@ Functional Requirement Specification (FRS)
 
 Use Case Diagrams
 
-Process Flow Diagrams (As-Is / To-Be)
+Swimlane & Process Flow Diagrams
 
 Requirement Traceability Matrix
 
-⚙️ Key System Features
+⚙️ Tools & Technologies Used
 
-Cattle Registration
+Figma (UI/UX Prototype Design)
 
-Health Record Management
+Power BI (Interactive Dashboard & Analytics)
 
-Vaccination Tracking
-
-Disease & Treatment Logs
-
-Alerts & Notifications
-
-Reporting Dashboard
-
-🖥 Figma Prototype
-
-A high-fidelity system prototype was designed using Figma, including:
-
-Login & User Management
-
-Cattle Profile Interface
-
-Health Monitoring Screens
-
-Vaccination Scheduler
-
-Dashboard UI
-
-Prototype demonstrates user flow and system interaction design.
-
-📈 Power BI Dashboard
-
-An interactive dashboard was developed using Power BI to monitor:
-
-Vaccination Status
-
-Disease Trends
-
-Cattle Health Summary
-
-Treatment Records
-
-Farm-Level Insights
-
-The dashboard enables data-driven decision-making for farm management.
-
-🧩 Tools & Technologies Used
-
-Figma (UI/UX Prototype)
-
-Power BI (Dashboard & Analytics)
-
-Draw.io (Process Diagrams)
+Draw.io (Process & UML Diagrams)
 
 Business Analysis Frameworks
 
 Requirement Engineering Techniques
 
-📌 Deliverables
-
-Complete BA Documentation
-
-System Design Diagrams
-
-Functional Specifications
-
-Interactive Dashboard
-
-Clickable Prototype
-
 🚀 Outcome
 
-The system provides a structured digital solution to improve:
+The system provides:
 
-Health monitoring
+Centralized health record management
 
-Vaccination compliance
+Improved vaccination compliance
 
-Data transparency
+Transparent treatment tracking
 
-Farm-level performance tracking
+Structured process flow
+
+Data-driven operational insights

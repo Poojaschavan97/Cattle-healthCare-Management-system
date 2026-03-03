@@ -100,7 +100,7 @@ Health Status Categorization
 
 Farm-Level Performance Metrics
 
-<p align="center"> <img src="assets/powerbi-dashboard.png" width="750"> </p>
+<p align="center"> <img src="assets/dashboard.png" width="750"> </p>
 📂 Business Analysis Documentation
 
 The project includes structured documentation:
